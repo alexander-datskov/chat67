@@ -37,8 +37,8 @@ UPLOADED_GIFS = {}  # gif_id -> {"url": "...", "uploader": "username", "timestam
 MESSAGE_METADATA = {}  # message_id -> {"gif_url": "...", "deleted": False}
 
 # Admin credentials
-ADMIN_USER = "adatskov"
-ADMIN_PASS = "Alexander2013!"
+ADMIN_USER = "adminof67"
+ADMIN_PASS = "adminof67"
 
 # Available themes
 THEMES = {
