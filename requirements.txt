@@ -1,0 +1,6 @@
+Flask==2.3.3
+requests==2.31.0
+Pillow==10.0.1
+gevent==22.10.2
+pytz==2023.3
+Werkzeug==2.3.7
